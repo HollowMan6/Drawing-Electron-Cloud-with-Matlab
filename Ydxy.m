@@ -1,0 +1,1 @@
+function y=Ydxy(theta,phi);st=sin(theta);y=sqrt(15/16/pi)*st.*st.*sin(2*phi);

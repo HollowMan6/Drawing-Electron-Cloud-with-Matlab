@@ -9,6 +9,8 @@
   With my correction, I successfully Draw the Electron Cloud with Matlab according to the Dissertation.
   
   The project contains the corrected codes in the dissertation and pictures of 3D-Coordinates and Polar-Coordinates both in fig ang jpg.
+
+  The main code is "Main.m" and the fuctions is the other .m files.
   
   I welcome the Chemistry teachers to apply the pictures in your class and it's also my pleasure.
   
@@ -25,5 +27,7 @@
    最终，在我的改正下，我成功实现了用Matlab画电子轨道！
    
    这个项目包含了论文中的源代码实现，和分别以fig与jpg格式保存的在三维坐标系和极坐标系下的绘图。
+
+   主程序在Main.m中，函数在其它.m文件中。
    
    欢迎所有化学老师在教学工作中应用我的图片以及代码。

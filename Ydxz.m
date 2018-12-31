@@ -1,0 +1,1 @@
+function y=Ydxz(theta,phi);ct=cos(theta);st=sin(theta);y=sqrt(15/4/pi)*st.*ct.*cos(phi);

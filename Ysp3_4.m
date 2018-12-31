@@ -1,0 +1,1 @@
+function y=Ysp3_4(theta,phi);y=1/2*(Ys(theta,phi)+Ypx(theta,phi)-Ypy(theta,phi)-Ypz(theta,phi));

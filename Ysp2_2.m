@@ -1,0 +1,1 @@
+function y=Ysp2_2(theta,phi);y=sqrt(1/3)*Ys(theta,pi)-sqrt(1/6)*Ypx(theta,phi)+sqrt(1/2)*Ypy(theta,phi);
