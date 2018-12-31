@@ -2,7 +2,7 @@
 
 ## English Version(中文版请下拉)
 
-  In the memory of 2019 New Year, I stayed up and realize the codes in the Dissertation found in [CNKI](www.cnki.net) named "Drawing Angular Part of Atomic Orbital and Hybrid Orbital By Using MATLAB" by LV Shenzhuɑnɡ(School of Chemistry， Leshan Normal University， Leshan Sichuan 614000， China).
+  In the memory of 2019 New Year, I stayed up and realize the codes in the Dissertation found in [CNKI](http://www.cnki.net) named "Drawing Angular Part of Atomic Orbital and Hybrid Orbital By Using MATLAB" by LV Shenzhuɑnɡ(School of Chemistry， Leshan Normal University， Leshan Sichuan 614000， China).
 
   But I found several mistakes in the Dissertation and I corrected them. You can see my corrections in the pdf document. They may be some publish mistakes.
     
