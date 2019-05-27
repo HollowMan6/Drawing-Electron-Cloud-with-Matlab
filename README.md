@@ -1,5 +1,8 @@
 # Drawing-Electron-Cloud-with-Matlab
 
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.svg?v=103)](https://opensource.org/licenses/GPL-3.0/)
+
 ## English Version(中文版请下拉)
 
   In the memory of 2019 New Year, I stayed up and realize the codes in the Dissertation found in [CNKI](www.cnki.net) named "Drawing Angular Part of Atomic Orbital and Hybrid Orbital By Using MATLAB" by LV Shenzhuɑnɡ(School of Chemistry， Leshan Normal University， Leshan Sichuan 614000， China).
