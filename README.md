@@ -5,7 +5,7 @@
 [![Followers](https://img.shields.io/github/followers/HollowMan6?style=social)](https://github.com/HollowMan6?tab=followers)
 [![watchers](https://img.shields.io/github/watchers/HollowMan6/Drawing-Electron-Cloud-with-Matlab?style=social)](../../watchers)
 [![stars](https://img.shields.io/github/stars/HollowMan6/Drawing-Electron-Cloud-with-Matlab?style=social)](../../stargazers)
-[![forks](https://img.shields.io/github/forks/HollowMan6/Drawing-Electron-Cloud-with-Matlab?style=social)](../../stargazers)
+[![forks](https://img.shields.io/github/forks/HollowMan6/Drawing-Electron-Cloud-with-Matlab?style=social)](../../network/members)
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://hollowman6.github.io/fund.html)
 [![Repo-Size](https://img.shields.io/github/repo-size/HollowMan6/Drawing-Electron-Cloud-with-Matlab.svg)](../../archive/master.zip)
