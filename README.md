@@ -7,9 +7,9 @@
 [![stars](https://img.shields.io/github/stars/HollowMan6/Drawing-Electron-Cloud-with-Matlab?style=social)](../../stargazers)
 [![forks](https://img.shields.io/github/forks/HollowMan6/Drawing-Electron-Cloud-with-Matlab?style=social)](../../network/members)
 
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://hollowman6.github.io/fund.html)
+[![Open Source Love](https://img.shields.io/badge/-%E2%9D%A4%20Open%20Source-Green?style=flat-square&logo=Github&logoColor=white&link=https://hollowman6.github.io/fund.html)](https://hollowman6.github.io/fund.html)
+[![GPL Licence](https://img.shields.io/badge/license-GPL-blue)](https://opensource.org/licenses/GPL-3.0/)
 [![Repo-Size](https://img.shields.io/github/repo-size/HollowMan6/Drawing-Electron-Cloud-with-Matlab.svg)](../../archive/master.zip)
-[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.svg?v=103)](https://opensource.org/licenses/GPL-3.0/)
 
 现在是2019年元旦，新的一年，新的开始，我决定创建一个项目来给新的一年一个好的开始！😊 于是我准备实现吕申壮教授（乐山师范学院 化学学院，四川 乐山）《用 MATLAB 绘制原子轨道及杂化轨道角度部分图》中的代码！
 
